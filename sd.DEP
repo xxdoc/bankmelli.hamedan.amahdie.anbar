@@ -1,0 +1,50 @@
+[Version]
+Version=1.0.0.0
+
+[sd.exe <0009>]
+Dest=$(AppPath)
+Date=2009/12/18
+Time=17:17
+Version=1.0.0.0
+CABFilename=sd.CAB
+CABINFFile=sd.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=msado20.tlb
+Uses8=MSBIND.DLL
+Uses9=scrrun.dll
+Uses10=msjro.dll
+Uses11=msadox.dll
+Uses12=dao360.dll
+Uses13=MSADODC.OCX
+Uses14=MSDATGRD.OCX
+Uses15=MSFLXGRD.OCX
+Uses16=MSDERUN.DLL
+
+[msado20.tlb <0009>]
+Dest=$(WinSysPath)
+Date=2004/08/04
+Time=15:30
+Version=2.81.1117.0
+
+[msjro.dll <0009>]
+Dest=$(WinSysPath)
+Date=2007/07/22
+Time=15:26
+Version=2.81.1128.0
+
+[msadox.dll <0009>]
+Dest=$(WinSysPath)
+Date=2007/07/22
+Time=15:25
+Version=2.81.1128.0
+
+[dao360.dll <0009>]
+Dest=$(WinSysPath)
+Date=2004/08/04
+Time=15:30
+Version=3.60.8618.0

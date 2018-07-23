@@ -1,0 +1,36 @@
+Line 32: Class MSAdodcLib.Adodc of control Adodc3 was not a loaded control class.
+Line 115: Class Project1.Button of control Button2 was not a loaded control class.
+Line 366: Class Project1.Button of control Ima was not a loaded control class.
+Line 38: The property name _ExtentX in Adodc3 is invalid.
+Line 39: The property name _ExtentY in Adodc3 is invalid.
+Line 40: The property name ConnectMode in Adodc3 is invalid.
+Line 41: The property name CursorLocation in Adodc3 is invalid.
+Line 42: The property name IsolationLevel in Adodc3 is invalid.
+Line 43: The property name ConnectionTimeout in Adodc3 is invalid.
+Line 44: The property name CommandTimeout in Adodc3 is invalid.
+Line 45: The property name CursorType in Adodc3 is invalid.
+Line 46: The property name LockType in Adodc3 is invalid.
+Line 47: The property name CommandType in Adodc3 is invalid.
+Line 48: The property name CursorOptions in Adodc3 is invalid.
+Line 49: The property name CacheSize in Adodc3 is invalid.
+Line 50: The property name MaxRecords in Adodc3 is invalid.
+Line 51: The property name BOFAction in Adodc3 is invalid.
+Line 52: The property name EOFAction in Adodc3 is invalid.
+Line 53: The property name ConnectStringType in Adodc3 is invalid.
+Line 57: The property name Orientation in Adodc3 is invalid.
+Line 59: The property name Connect in Adodc3 is invalid.
+Line 60: The property name OLEDBString in Adodc3 is invalid.
+Line 61: The property name OLEDBFile in Adodc3 is invalid.
+Line 62: The property name DataSourceName in Adodc3 is invalid.
+Line 63: The property name OtherAttributes in Adodc3 is invalid.
+Line 64: The property name UserName in Adodc3 is invalid.
+Line 65: The property name Password in Adodc3 is invalid.
+Line 66: The property name RecordSource in Adodc3 is invalid.
+Line 67: The property name Caption in Adodc3 is invalid.
+Line 77: The property name _Version in Adodc3 is invalid.
+Line 121: The property name _ExtentX in Button2 is invalid.
+Line 122: The property name _ExtentY in Button2 is invalid.
+Line 123: The property name Caption in Button2 is invalid.
+Line 373: The property name _ExtentX in Ima is invalid.
+Line 374: The property name _ExtentY in Ima is invalid.
+Line 375: The property name Caption in Ima is invalid.

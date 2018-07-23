@@ -1,0 +1,12 @@
+' Start me code
+on error resume next
+Dim b 'Integer
+Dim a 'Integer
+Dim i 'Integer
+b = 1
+for i = 1 to 5
+a = inputbox ("?II:")
+b = b * a
+next
+msgbox b
+' End of code
